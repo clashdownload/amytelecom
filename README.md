@@ -21,9 +21,6 @@
 ## AmyTelecom跑路
 目前AmyTelecom没有跑路，可以放心使用。
 
-## AmyTelecom评测
-更多有关AmyTelecom评测可访问：https://jichangzhu.com/node/amytelecom/
-
  ## 更多推荐
  - [Clash节点推荐](https://github.com/clashdownload/Clash)
  - [好用的Clash节点购买机场推荐](https://clash.top/node/?utm_source=github&utm_medium=clashdownload-details)
